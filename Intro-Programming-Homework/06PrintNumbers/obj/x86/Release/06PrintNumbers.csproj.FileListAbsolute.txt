@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\06PrintNumbers\bin\Release\06PrintNumbers.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\06PrintNumbers\bin\Release\06PrintNumbers.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\06PrintNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\06PrintNumbers\obj\x86\Release\06PrintNumbers.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\06PrintNumbers\obj\x86\Release\06PrintNumbers.pdb

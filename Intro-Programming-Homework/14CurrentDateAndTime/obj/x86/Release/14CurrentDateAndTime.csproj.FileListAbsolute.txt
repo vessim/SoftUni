@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\14CurrentDateAndTime\bin\Release\14CurrentDateAndTime.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\14CurrentDateAndTime\bin\Release\14CurrentDateAndTime.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\14CurrentDateAndTime\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\14CurrentDateAndTime\obj\x86\Release\14CurrentDateAndTime.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\14CurrentDateAndTime\obj\x86\Release\14CurrentDateAndTime.pdb

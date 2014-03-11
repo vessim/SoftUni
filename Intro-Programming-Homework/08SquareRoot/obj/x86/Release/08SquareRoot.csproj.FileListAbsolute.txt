@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\08SquareRoot\bin\Release\08SquareRoot.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\08SquareRoot\bin\Release\08SquareRoot.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\08SquareRoot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\08SquareRoot\obj\x86\Release\08SquareRoot.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\08SquareRoot\obj\x86\Release\08SquareRoot.pdb

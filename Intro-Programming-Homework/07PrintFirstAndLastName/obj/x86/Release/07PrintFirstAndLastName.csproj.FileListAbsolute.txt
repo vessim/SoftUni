@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\bin\Release\07PrintFirstAndLastName.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\bin\Release\07PrintFirstAndLastName.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\obj\x86\Release\07PrintFirstAndLastName.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\07PrintFirstAndLastName\obj\x86\Release\07PrintFirstAndLastName.pdb

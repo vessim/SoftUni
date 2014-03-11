@@ -1,0 +1,5 @@
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Release\Intro-Programming-Homework.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Release\Intro-Programming-Homework.pdb
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\x86\Release\Intro-Programming-Homework.exe
+C:\Users\Vessela\documents\visual studio 2010\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\x86\Release\Intro-Programming-Homework.pdb
